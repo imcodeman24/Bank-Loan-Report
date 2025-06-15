@@ -74,6 +74,22 @@ Dashboard 2 : OVERVIEW
 ![summary](https://github.com/user-attachments/assets/7bbfb059-0d0b-45c4-ae64-47276b85461b)
 
 
-
 ## Dashboard 2: OVERVIEW
 ![overview](https://github.com/user-attachments/assets/a6bd14bc-71e7-4deb-be91-b78469b60446)
+
+
+## Project Insight
+
+1. Loan applications have shown consistent monthly growth from January (2.3K) to December (4.0K).
+
+2.  Although bad loans are few(13.82%), their recovery rate is poor.
+
+3. Higher interest loans(13.89%, 15.13%) correlate with increased default risk.
+
+4. DTI (Avg. DTI=13.33%) is a critical default predictor. Consider setting stricter DTI limits in approval policy.
+
+5. Applications are highest in some states (up to 6.9K), lowest in others (<2K).
+
+6. Loan applications are strong across all employment groups (10+ years: 4.6K , 2 years: 4.4K, <1 year: 4.1K ). 
+
+7. Majority are Renters(18.4K)  followed by Mortgage(17.1K) , implying higher credit risk. 

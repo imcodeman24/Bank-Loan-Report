@@ -80,21 +80,22 @@ Dashboard 2 : OVERVIEW
 
 ## Project Insight
 
-1. Loan applications have shown consistent monthly growth from January (2.3K) to December (4.0K).
+•	Loan applications have shown consistent monthly growth from January (2.3K) to December (4.0K).
 
-2.  Although bad loans are few(13.82%), their recovery rate is poor.
+•	Although bad loans are few(13.82%), their recovery rate is poor.
 
-3. Higher interest loans(13.89%, 15.13%) correlate with increased default risk.
+•	Higher interest loans(13.89%, 15.13%) correlate with increased default risk.
 
-4. DTI (Avg. DTI=13.33%) is a critical default predictor. Consider setting stricter DTI limits in approval policy.
+•	DTI (Avg. DTI=13.33%) is a critical default predictor. Consider setting stricter DTI limits in approval policy.
 
-5. Applications are highest in some states (up to 6.9K), lowest in others (<2K).
+•	Applications are highest in some states (up to 6.9K), lowest in others (<2K).
 
-6. Loan applications are strong across all employment groups (10+ years: 4.6K , 2 years: 4.4K, <1 year: 4.1K ). 
+•	Loan applications are strong across all employment groups (10+ years: 4.6K, 2 years: 4.4K, <1 year: 4.1K ). 
 
-7. Majority are Renters(18.4K)  followed by Mortgage(17.1K) , implying higher credit risk.
+•	Majority are Renters(18.4K)  followed by Mortgage(17.1K) , implying higher credit risk. 
 
-8. Longer tenures are preferred (60-month loans: 28.2K ).
+•	Longer tenures are preferred (60-month loans: 28.2K ).
 
-9. Customers use loans primarily to manage or restructure existing debt( Debt Consolidation: 18.2K ).
+•	Customers use loans primarily to manage or restructure existing debt( Debt Consolidation: 18.2K ).
+
 

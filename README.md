@@ -92,4 +92,9 @@ Dashboard 2 : OVERVIEW
 
 6. Loan applications are strong across all employment groups (10+ years: 4.6K , 2 years: 4.4K, <1 year: 4.1K ). 
 
-7. Majority are Renters(18.4K)  followed by Mortgage(17.1K) , implying higher credit risk. 
+7. Majority are Renters(18.4K)  followed by Mortgage(17.1K) , implying higher credit risk.
+
+8. Longer tenures are preferred (60-month loans: 28.2K ).
+
+9. Customers use loans primarily to manage or restructure existing debt( Debt Consolidation: 18.2K ).
+

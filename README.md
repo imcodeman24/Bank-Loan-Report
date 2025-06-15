@@ -98,4 +98,20 @@ Dashboard 2 : OVERVIEW
 
 •	Customers use loans primarily to manage or restructure existing debt( Debt Consolidation: 18.2K ).
 
+## Strategic Recommendations
+
+•	Use interest rate and DTI thresholds to flag risky profiles.
+
+•	Improve recovery processes for bad loans (currently low at 57%).
+
+•	Target underperforming states through localized marketing or partnerships and promote 36-month loans to balance risk.
+
+•	Create customized plans for debt consolidation and renters.
+
+•	Strengthen checks for high-interest, high-DTI, and low employment-tenure borrowers.
+
+•	Consider additional collateral or guarantor requirement for renters.
+
+•	Include employment length factor in risk scoring.
+
 

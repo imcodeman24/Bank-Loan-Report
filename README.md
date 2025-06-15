@@ -98,7 +98,7 @@ Dashboard 2 : OVERVIEW
 
 •	Customers use loans primarily to manage or restructure existing debt( Debt Consolidation: 18.2K ).
 
-## Strategic Recommendations
+## Recommendations
 
 •	Use interest rate and DTI thresholds to flag risky profiles.
 

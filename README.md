@@ -71,6 +71,7 @@ Dashboard 2 : OVERVIEW
 •	Merge all pivot tables into  dashboards  and apply slicers to make dynamic.
 
 ## Dashboard 1: SUMMARY
+![summary](https://github.com/user-attachments/assets/7bbfb059-0d0b-45c4-ae64-47276b85461b)
 
 
 

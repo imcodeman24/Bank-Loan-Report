@@ -68,5 +68,10 @@ Dashboard 2 : OVERVIEW
 
 •	Created pivot tables according to the questions asked.
 
-•	Merge all pivot tables into  dashboards  and apply slicer to make dynamic.
+•	Merge all pivot tables into  dashboards  and apply slicers to make dynamic.
 
+## Dashboard 1: SUMMARY
+
+
+
+## Dashboard 2: OVERVIEW

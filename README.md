@@ -1,4 +1,4 @@
-# Bank Loan Report ( Interactive Dashboard creation using MS Excel )
+# Bank-Loan-Report ( Interactive Dashboard creation using MS Excel )
 ## Project Objective :
 To analyse bank loan performance, assess risk patterns, and provide actionable insights for strategic decision-making.
 
@@ -61,6 +61,7 @@ Dashboard 2 : OVERVIEW
 ## Process
 
 •	Verify data for any missing values and anomalies , and sort out the same.
+
 •	Made sure data is consistent and clean with respect to data type, data format and values used.
 
 •	Created new columns as per requirements.

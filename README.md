@@ -1,5 +1,5 @@
 # Bank-Loan-Report ( Interactive Dashboard creation using MS Excel )
-## Project Objective :
+## Project Objective 
 To analyse bank loan performance, assess risk patterns, and provide actionable insights for strategic decision-making.
 
 ## Dataset used
@@ -8,25 +8,15 @@ To analyse bank loan performance, assess risk patterns, and provide actionable i
 ## Questions ( KPI’s )
 Dashboard 1 : SUMMARY
 
-•	Total Loan Applications: 
+•	Total Loan Applications also find Month-to-Date (MTD) Loan Applications and Month-over-Month (MoM) changes.
 
-o	Month-to-Date (MTD) Loan Applications and Month-over-Month (MoM) changes.
+•	Total Funded Amount also find MTD Total Funded Amount  and   MoM changes .
 
-•	Total Funded Amount: 
+•	Total Amount Received also find MTD Total Amount Received  and  MoM changes.
 
-o	MTD Total Funded Amount  and   MoM changes .
+•	Average Interest Rate also find MTD Average Interest Rate and MoM Changes.
 
-•	Total Amount Received: 
-
-o	MTD Total Amount Received  and  MoM changes.
-
-•	Average Interest Rate: 
-
-o	MTD Average Interest Rate and MoM Changes.
-
-•	Average Debt-to-Income Ratio (DTI): 
-
-o	MTD Average Debt-to-Income Ratio and MoM Changes.
+•	Average Debt-to-Income Ratio (DTI) also find MTD Average Debt-to-Income Ratio and MoM Changes.
 
 •	Good Loan Application Percentage
 

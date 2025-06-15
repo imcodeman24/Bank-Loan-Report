@@ -9,21 +9,33 @@ To analyse bank loan performance, assess risk patterns, and provide actionable i
 Dashboard 1 : SUMMARY
 •	Total Loan Applications: 
 o	Month-to-Date (MTD) Loan Applications and Month-over-Month (MoM) changes.
+
 •	Total Funded Amount: 
 o	MTD Total Funded Amount  and   MoM changes .
+
 •	Total Amount Received: 
 o	MTD Total Amount Received  and  MoM changes.
+
 •	Average Interest Rate: 
 o	MTD Average Interest Rate and MoM Changes.
+
 •	Average Debt-to-Income Ratio (DTI): 
 o	MTD Average Debt-to-Income Ratio and MoM Changes.
+
 •	Good Loan Application Percentage
+
 •	Good Loan Applications
+
 •	Good Loan Funded Amount
+
 •	Good Loan Total Received Amount
+
 •	Bad Loan Application Percentage
+
 •	Bad Loan Applications
+
 •	Bad Loan Funded Amount
+
 •	Bad Loan Total Received Amount
 
 Dashboard 2 : OVERVIEW
